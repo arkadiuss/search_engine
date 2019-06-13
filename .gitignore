@@ -1,0 +1,7 @@
+__pycache__/
+articles/
+venv/
+*.npz
+*.npy
+p_articles*
+words*
